@@ -3,4 +3,7 @@
 e.g.
 
 ```
+<match blahblah>
+  type rename_tag
+</match>
 ```
